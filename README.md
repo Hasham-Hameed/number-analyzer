@@ -52,3 +52,7 @@ Planned improvements:
 ## Author
 
 Built while learning Python fundamentals: functions, loops, and conditionals.
+
+## Regards 
+
+Hasham Hameed
